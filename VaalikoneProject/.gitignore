@@ -1,0 +1,8 @@
+# IntelliJ IDEA settings
+.idea
+
+# Project build files
+/build
+
+# Compiled class file
+*.class
